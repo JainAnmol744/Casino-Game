@@ -66,6 +66,8 @@ int main()
     cout << "\n\nThanks for playing the game. Your balance is $ " << balance << "\n\n";
     return 0;
 }
+
+
 void rules()
 {
     system("cls");
